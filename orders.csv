@@ -1,0 +1,501 @@
+ORDER ID,CUSTOMER ID,EMPLOYEE ID,ORDER DATE,PAYMENT METHOD,ORDER STATUS
+O0001,C016,E015,08-05-2025,Credit Card,Returned
+O0002,C086,E017,26-08-2025,Cash on Delivery,Shipped
+O0003,C097,E015,12-06-2025,Cash on Delivery,Returned
+O0004,C055,E018,16-09-2025,Net Banking,Delivered
+O0005,C058,E009,01-09-2025,Credit Card,Returned
+O0006,C036,E017,23-11-2025,Net Banking,Cancelled
+O0007,C036,E015,03-05-2025,UPI,Cancelled
+O0008,C031,E009,27-05-2025,Debit Card,Delivered
+O0009,C011,E005,04-10-2025,Credit Card,Delivered
+O0010,C089,E005,16-07-2025,Credit Card,Delivered
+O0011,C053,E011,01-08-2025,Cash on Delivery,Delivered
+O0012,C008,E007,01-08-2025,Net Banking,Delivered
+O0013,C090,E001,27-10-2025,Cash on Delivery,Delivered
+O0014,C001,E012,02-09-2025,Debit Card,Returned
+O0015,C054,E018,19-07-2025,Cash on Delivery,Returned
+O0016,C029,E016,05-11-2025,Credit Card,Delivered
+O0017,C063,E001,12-08-2025,Net Banking,Delivered
+O0018,C087,E013,09-12-2025,Credit Card,Returned
+O0019,C017,E020,28-08-2025,Cash on Delivery,Delivered
+O0020,C076,E019,21-07-2025,UPI,Delivered
+O0021,C055,E005,26-11-2025,Net Banking,Delivered
+O0022,C034,E013,26-01-2025,Debit Card,Delivered
+O0023,C042,E011,21-08-2025,Net Banking,Delivered
+O0024,C033,E003,04-08-2025,Net Banking,Delivered
+O0025,C007,E012,04-10-2025,Credit Card,Cancelled
+O0026,C100,E002,05-02-2025,UPI,Delivered
+O0027,C003,E020,13-04-2025,Credit Card,Delivered
+O0028,C061,E004,06-03-2025,Cash on Delivery,Delivered
+O0029,C090,E009,27-08-2025,Debit Card,Delivered
+O0030,C078,E004,07-11-2025,Credit Card,Delivered
+O0031,C075,E001,25-02-2025,Debit Card,Shipped
+O0032,C049,E013,13-12-2025,Credit Card,Delivered
+O0033,C089,E008,31-10-2025,UPI,Cancelled
+O0034,C088,E020,04-06-2025,UPI,Returned
+O0035,C006,E012,17-10-2025,Cash on Delivery,Delivered
+O0036,C048,E003,05-12-2025,Cash on Delivery,Cancelled
+O0037,C002,E014,24-06-2025,Net Banking,Delivered
+O0038,C047,E015,10-08-2025,Credit Card,Delivered
+O0039,C094,E017,01-04-2025,Debit Card,Shipped
+O0040,C100,E016,03-10-2025,Net Banking,Delivered
+O0041,C035,E011,31-10-2025,Credit Card,Returned
+O0042,C036,E015,14-02-2025,Credit Card,Returned
+O0043,C073,E020,26-08-2025,Net Banking,Delivered
+O0044,C064,E011,15-01-2025,Credit Card,Delivered
+O0045,C046,E009,19-04-2025,Debit Card,Delivered
+O0046,C090,E009,02-11-2025,Cash on Delivery,Delivered
+O0047,C025,E003,22-09-2025,Credit Card,Cancelled
+O0048,C063,E018,28-07-2025,Credit Card,Cancelled
+O0049,C083,E016,01-09-2025,Net Banking,Returned
+O0050,C012,E010,09-01-2025,Credit Card,Delivered
+O0051,C032,E010,21-12-2025,Cash on Delivery,Delivered
+O0052,C071,E017,31-08-2025,Debit Card,Delivered
+O0053,C043,E012,09-10-2025,Net Banking,Delivered
+O0054,C033,E008,06-06-2025,UPI,Cancelled
+O0055,C041,E004,09-04-2025,Cash on Delivery,Returned
+O0056,C024,E007,20-12-2025,Credit Card,Cancelled
+O0057,C036,E019,05-09-2025,Cash on Delivery,Shipped
+O0058,C013,E007,25-05-2025,Debit Card,Delivered
+O0059,C023,E010,04-07-2025,UPI,Cancelled
+O0060,C017,E009,01-10-2025,UPI,Delivered
+O0061,C038,E005,11-10-2025,Net Banking,Delivered
+O0062,C074,E010,07-01-2025,Net Banking,Delivered
+O0063,C044,E006,14-08-2025,UPI,Delivered
+O0064,C015,E003,02-09-2025,Net Banking,Delivered
+O0065,C074,E002,07-02-2025,Credit Card,Delivered
+O0066,C039,E003,16-10-2025,Credit Card,Delivered
+O0067,C098,E014,13-10-2025,Cash on Delivery,Shipped
+O0068,C029,E017,13-11-2025,Net Banking,Delivered
+O0069,C039,E019,15-08-2025,Net Banking,Delivered
+O0070,C080,E002,19-10-2025,Cash on Delivery,Cancelled
+O0071,C098,E007,20-02-2025,Credit Card,Delivered
+O0072,C011,E006,05-12-2025,Credit Card,Delivered
+O0073,C010,E006,10-10-2025,UPI,Delivered
+O0074,C089,E020,19-08-2025,Net Banking,Delivered
+O0075,C030,E010,17-01-2025,Debit Card,Cancelled
+O0076,C010,E008,21-08-2025,Debit Card,Returned
+O0077,C076,E007,17-11-2025,Net Banking,Delivered
+O0078,C029,E005,06-10-2025,Debit Card,Returned
+O0079,C010,E002,14-03-2025,Credit Card,Returned
+O0080,C077,E019,07-06-2025,Debit Card,Delivered
+O0081,C060,E010,05-03-2025,Net Banking,Delivered
+O0082,C070,E016,14-09-2025,Net Banking,Delivered
+O0083,C006,E014,03-11-2025,Debit Card,Shipped
+O0084,C004,E003,09-05-2025,Credit Card,Cancelled
+O0085,C076,E001,22-10-2025,Debit Card,Shipped
+O0086,C098,E006,21-01-2025,Net Banking,Shipped
+O0087,C057,E009,30-11-2025,Credit Card,Shipped
+O0088,C082,E016,12-08-2025,UPI,Delivered
+O0089,C053,E011,28-06-2025,Debit Card,Cancelled
+O0090,C021,E011,23-02-2025,Net Banking,Cancelled
+O0091,C037,E013,11-09-2025,Cash on Delivery,Delivered
+O0092,C012,E011,21-08-2025,Debit Card,Delivered
+O0093,C099,E013,01-03-2025,Cash on Delivery,Returned
+O0094,C085,E018,01-01-2025,Net Banking,Delivered
+O0095,C025,E017,28-01-2025,Debit Card,Shipped
+O0096,C081,E015,13-09-2025,UPI,Delivered
+O0097,C071,E005,17-05-2025,Debit Card,Delivered
+O0098,C063,E004,24-12-2025,UPI,Cancelled
+O0099,C031,E006,08-11-2025,Debit Card,Shipped
+O0100,C071,E014,08-01-2025,UPI,Delivered
+O0101,C060,E004,28-02-2025,Credit Card,Delivered
+O0102,C066,E009,30-05-2025,Net Banking,Returned
+O0103,C061,E008,05-09-2025,Net Banking,Shipped
+O0104,C050,E007,16-03-2025,Cash on Delivery,Shipped
+O0105,C009,E009,11-03-2025,Net Banking,Delivered
+O0106,C035,E001,17-09-2025,Debit Card,Cancelled
+O0107,C076,E019,02-06-2025,Net Banking,Returned
+O0108,C058,E018,18-03-2025,Net Banking,Delivered
+O0109,C071,E018,20-06-2025,Net Banking,Delivered
+O0110,C025,E008,14-06-2025,Cash on Delivery,Delivered
+O0111,C100,E014,30-04-2025,UPI,Delivered
+O0112,C091,E013,31-08-2025,Net Banking,Cancelled
+O0113,C020,E016,30-11-2025,UPI,Delivered
+O0114,C076,E011,15-09-2025,UPI,Returned
+O0115,C013,E017,14-08-2025,Net Banking,Delivered
+O0116,C053,E005,15-03-2025,UPI,Delivered
+O0117,C044,E020,16-05-2025,Net Banking,Cancelled
+O0118,C043,E018,11-02-2025,Net Banking,Delivered
+O0119,C092,E016,17-11-2025,Cash on Delivery,Delivered
+O0120,C009,E008,13-11-2025,Debit Card,Delivered
+O0121,C056,E004,16-02-2025,UPI,Delivered
+O0122,C089,E010,27-03-2025,UPI,Delivered
+O0123,C008,E010,16-06-2025,Debit Card,Delivered
+O0124,C019,E008,09-08-2025,Cash on Delivery,Delivered
+O0125,C088,E006,17-10-2025,Credit Card,Delivered
+O0126,C079,E013,10-02-2025,Cash on Delivery,Cancelled
+O0127,C064,E019,04-05-2025,Credit Card,Delivered
+O0128,C082,E009,25-08-2025,Net Banking,Delivered
+O0129,C002,E015,08-12-2025,Debit Card,Cancelled
+O0130,C021,E003,07-10-2025,Net Banking,Delivered
+O0131,C039,E014,28-10-2025,Debit Card,Delivered
+O0132,C026,E013,04-06-2025,Net Banking,Delivered
+O0133,C049,E019,02-05-2025,Debit Card,Shipped
+O0134,C090,E010,01-06-2025,UPI,Returned
+O0135,C051,E009,04-12-2025,UPI,Shipped
+O0136,C100,E002,18-12-2025,Cash on Delivery,Cancelled
+O0137,C037,E008,12-09-2025,Cash on Delivery,Returned
+O0138,C029,E007,30-06-2025,Cash on Delivery,Delivered
+O0139,C097,E005,14-12-2025,UPI,Cancelled
+O0140,C006,E010,27-11-2025,Net Banking,Delivered
+O0141,C047,E005,24-10-2025,UPI,Delivered
+O0142,C096,E014,17-06-2025,Credit Card,Delivered
+O0143,C070,E012,09-03-2025,Cash on Delivery,Shipped
+O0144,C022,E009,20-05-2025,Net Banking,Returned
+O0145,C096,E011,01-06-2025,UPI,Delivered
+O0146,C019,E008,08-02-2025,Net Banking,Returned
+O0147,C047,E003,13-10-2025,Net Banking,Delivered
+O0148,C069,E004,16-05-2025,Net Banking,Delivered
+O0149,C096,E009,11-12-2025,Cash on Delivery,Delivered
+O0150,C048,E004,23-11-2025,Credit Card,Delivered
+O0151,C080,E018,13-01-2025,Debit Card,Shipped
+O0152,C083,E003,24-04-2025,Net Banking,Cancelled
+O0153,C084,E014,04-06-2025,UPI,Delivered
+O0154,C005,E010,24-01-2025,Net Banking,Delivered
+O0155,C031,E018,19-02-2025,Credit Card,Delivered
+O0156,C048,E018,21-08-2025,Net Banking,Shipped
+O0157,C054,E004,21-03-2025,Net Banking,Shipped
+O0158,C036,E002,28-07-2025,Debit Card,Delivered
+O0159,C057,E008,16-08-2025,Debit Card,Delivered
+O0160,C048,E018,18-12-2025,Debit Card,Delivered
+O0161,C036,E007,23-07-2025,UPI,Returned
+O0162,C012,E007,21-08-2025,Cash on Delivery,Delivered
+O0163,C043,E008,26-01-2025,Credit Card,Returned
+O0164,C027,E003,17-10-2025,Cash on Delivery,Delivered
+O0165,C028,E008,28-10-2025,Debit Card,Returned
+O0166,C077,E001,17-03-2025,Debit Card,Returned
+O0167,C017,E018,16-03-2025,Debit Card,Returned
+O0168,C015,E001,31-03-2025,Credit Card,Delivered
+O0169,C031,E019,03-07-2025,Debit Card,Delivered
+O0170,C034,E002,31-03-2025,Credit Card,Cancelled
+O0171,C068,E004,04-08-2025,UPI,Delivered
+O0172,C100,E012,18-08-2025,Cash on Delivery,Shipped
+O0173,C058,E017,25-02-2025,Credit Card,Shipped
+O0174,C094,E017,23-01-2025,Debit Card,Delivered
+O0175,C004,E002,26-11-2025,Net Banking,Returned
+O0176,C055,E004,25-07-2025,Net Banking,Cancelled
+O0177,C010,E003,16-08-2025,Debit Card,Shipped
+O0178,C009,E005,17-03-2025,Debit Card,Shipped
+O0179,C075,E018,21-11-2025,Debit Card,Delivered
+O0180,C068,E010,02-11-2025,Net Banking,Shipped
+O0181,C056,E004,06-11-2025,UPI,Returned
+O0182,C084,E018,02-12-2025,Credit Card,Delivered
+O0183,C030,E014,20-08-2025,Debit Card,Returned
+O0184,C052,E014,21-08-2025,UPI,Delivered
+O0185,C041,E009,07-08-2025,Debit Card,Delivered
+O0186,C061,E003,18-12-2025,UPI,Returned
+O0187,C012,E014,13-02-2025,UPI,Cancelled
+O0188,C017,E018,10-07-2025,UPI,Shipped
+O0189,C072,E011,15-10-2025,UPI,Delivered
+O0190,C086,E014,01-07-2025,UPI,Delivered
+O0191,C040,E012,04-11-2025,UPI,Shipped
+O0192,C028,E005,17-09-2025,Net Banking,Delivered
+O0193,C045,E018,25-02-2025,Debit Card,Delivered
+O0194,C074,E008,23-05-2025,Net Banking,Returned
+O0195,C099,E020,15-10-2025,Cash on Delivery,Cancelled
+O0196,C072,E001,26-11-2025,Cash on Delivery,Cancelled
+O0197,C035,E001,22-12-2025,Credit Card,Delivered
+O0198,C098,E010,26-12-2025,Debit Card,Delivered
+O0199,C024,E005,04-01-2025,Cash on Delivery,Cancelled
+O0200,C009,E005,25-07-2025,UPI,Delivered
+O0201,C028,E013,29-09-2025,Net Banking,Delivered
+O0202,C021,E012,24-06-2025,Debit Card,Cancelled
+O0203,C100,E019,16-06-2025,Cash on Delivery,Delivered
+O0204,C020,E006,27-01-2025,Cash on Delivery,Delivered
+O0205,C011,E009,12-12-2025,Net Banking,Cancelled
+O0206,C063,E020,06-08-2025,Net Banking,Delivered
+O0207,C028,E017,20-05-2025,UPI,Delivered
+O0208,C015,E010,09-08-2025,Cash on Delivery,Delivered
+O0209,C086,E010,27-09-2025,UPI,Delivered
+O0210,C077,E002,22-07-2025,UPI,Delivered
+O0211,C028,E005,04-06-2025,Debit Card,Delivered
+O0212,C016,E001,17-06-2025,Net Banking,Cancelled
+O0213,C023,E005,09-08-2025,Net Banking,Shipped
+O0214,C030,E017,27-12-2025,Cash on Delivery,Returned
+O0215,C046,E003,09-12-2025,Net Banking,Returned
+O0216,C056,E001,22-01-2025,Net Banking,Delivered
+O0217,C074,E014,10-06-2025,Cash on Delivery,Delivered
+O0218,C082,E014,30-12-2025,Debit Card,Delivered
+O0219,C003,E011,27-07-2025,Credit Card,Returned
+O0220,C059,E012,13-11-2025,UPI,Delivered
+O0221,C032,E014,24-02-2025,Cash on Delivery,Delivered
+O0222,C011,E013,26-09-2025,Debit Card,Cancelled
+O0223,C029,E011,23-06-2025,Credit Card,Delivered
+O0224,C082,E004,19-09-2025,Cash on Delivery,Shipped
+O0225,C100,E012,10-04-2025,Debit Card,Cancelled
+O0226,C019,E008,27-11-2025,UPI,Delivered
+O0227,C026,E006,12-05-2025,Cash on Delivery,Delivered
+O0228,C010,E006,02-12-2025,Net Banking,Delivered
+O0229,C098,E019,16-10-2025,Net Banking,Cancelled
+O0230,C083,E020,17-10-2025,Debit Card,Returned
+O0231,C041,E005,18-11-2025,Net Banking,Delivered
+O0232,C057,E010,29-08-2025,Debit Card,Shipped
+O0233,C046,E017,29-01-2025,UPI,Delivered
+O0234,C058,E002,25-08-2025,UPI,Delivered
+O0235,C010,E003,27-05-2025,Cash on Delivery,Shipped
+O0236,C050,E015,17-09-2025,Cash on Delivery,Shipped
+O0237,C058,E019,22-01-2025,Credit Card,Delivered
+O0238,C061,E017,06-11-2025,Credit Card,Delivered
+O0239,C014,E011,19-08-2025,UPI,Shipped
+O0240,C023,E002,27-11-2025,Credit Card,Cancelled
+O0241,C057,E017,13-08-2025,Cash on Delivery,Shipped
+O0242,C047,E012,23-03-2025,Debit Card,Delivered
+O0243,C100,E011,29-07-2025,Cash on Delivery,Delivered
+O0244,C083,E011,20-11-2025,UPI,Delivered
+O0245,C072,E013,18-02-2025,Debit Card,Delivered
+O0246,C078,E005,03-12-2025,Debit Card,Delivered
+O0247,C085,E005,26-10-2025,Debit Card,Delivered
+O0248,C090,E013,02-12-2025,Credit Card,Shipped
+O0249,C011,E010,29-12-2025,Cash on Delivery,Delivered
+O0250,C043,E005,26-11-2025,Cash on Delivery,Delivered
+O0251,C086,E014,27-11-2025,Cash on Delivery,Delivered
+O0252,C047,E010,10-01-2025,Credit Card,Delivered
+O0253,C099,E016,24-06-2025,Credit Card,Delivered
+O0254,C020,E003,12-03-2025,Debit Card,Returned
+O0255,C065,E018,21-02-2025,Cash on Delivery,Delivered
+O0256,C044,E020,05-12-2025,Credit Card,Shipped
+O0257,C020,E006,12-07-2025,Credit Card,Returned
+O0258,C099,E020,21-12-2025,Credit Card,Cancelled
+O0259,C006,E014,13-08-2025,Debit Card,Cancelled
+O0260,C057,E020,02-05-2025,Debit Card,Returned
+O0261,C030,E018,18-08-2025,Credit Card,Delivered
+O0262,C025,E012,29-08-2025,Cash on Delivery,Delivered
+O0263,C099,E010,25-08-2025,Net Banking,Shipped
+O0264,C054,E006,28-09-2025,Credit Card,Returned
+O0265,C018,E009,06-11-2025,UPI,Cancelled
+O0266,C048,E018,04-09-2025,UPI,Cancelled
+O0267,C016,E010,22-09-2025,UPI,Returned
+O0268,C035,E015,24-03-2025,Cash on Delivery,Delivered
+O0269,C012,E008,12-08-2025,Net Banking,Delivered
+O0270,C054,E002,14-01-2025,Net Banking,Shipped
+O0271,C031,E013,11-07-2025,UPI,Delivered
+O0272,C004,E011,25-04-2025,UPI,Returned
+O0273,C043,E005,29-11-2025,Credit Card,Delivered
+O0274,C061,E005,27-05-2025,Net Banking,Delivered
+O0275,C001,E003,12-11-2025,UPI,Delivered
+O0276,C020,E018,21-04-2025,Cash on Delivery,Shipped
+O0277,C015,E010,05-08-2025,Credit Card,Delivered
+O0278,C007,E008,04-03-2025,Net Banking,Cancelled
+O0279,C059,E003,15-11-2025,UPI,Returned
+O0280,C077,E018,13-09-2025,UPI,Cancelled
+O0281,C074,E008,21-09-2025,Credit Card,Delivered
+O0282,C001,E020,08-08-2025,Debit Card,Delivered
+O0283,C054,E006,20-10-2025,UPI,Shipped
+O0284,C009,E017,04-07-2025,Cash on Delivery,Shipped
+O0285,C071,E001,17-09-2025,Net Banking,Returned
+O0286,C006,E013,29-08-2025,Debit Card,Delivered
+O0287,C046,E003,09-01-2025,Debit Card,Delivered
+O0288,C081,E004,03-12-2025,Cash on Delivery,Cancelled
+O0289,C018,E002,20-06-2025,Debit Card,Shipped
+O0290,C083,E006,23-06-2025,Net Banking,Cancelled
+O0291,C081,E006,03-09-2025,Credit Card,Delivered
+O0292,C005,E010,23-08-2025,Credit Card,Delivered
+O0293,C006,E011,13-04-2025,Debit Card,Shipped
+O0294,C070,E016,23-07-2025,Debit Card,Delivered
+O0295,C025,E010,28-11-2025,Debit Card,Returned
+O0296,C084,E011,25-01-2025,Debit Card,Delivered
+O0297,C056,E013,08-07-2025,Net Banking,Delivered
+O0298,C024,E016,23-06-2025,Net Banking,Delivered
+O0299,C035,E003,23-09-2025,Net Banking,Delivered
+O0300,C078,E006,09-08-2025,Cash on Delivery,Delivered
+O0301,C014,E003,14-06-2025,Debit Card,Cancelled
+O0302,C040,E015,01-06-2025,Cash on Delivery,Cancelled
+O0303,C022,E015,07-08-2025,Debit Card,Delivered
+O0304,C094,E012,22-01-2025,Cash on Delivery,Delivered
+O0305,C082,E002,21-05-2025,UPI,Cancelled
+O0306,C052,E012,23-11-2025,Cash on Delivery,Returned
+O0307,C021,E001,14-12-2025,Credit Card,Returned
+O0308,C087,E015,08-11-2025,UPI,Delivered
+O0309,C031,E012,04-02-2025,Debit Card,Delivered
+O0310,C005,E020,18-10-2025,Credit Card,Cancelled
+O0311,C048,E012,19-08-2025,Net Banking,Returned
+O0312,C074,E005,09-02-2025,Cash on Delivery,Delivered
+O0313,C041,E009,23-07-2025,Credit Card,Delivered
+O0314,C095,E006,14-01-2025,Net Banking,Shipped
+O0315,C072,E004,18-07-2025,Debit Card,Returned
+O0316,C091,E015,14-05-2025,Credit Card,Shipped
+O0317,C089,E016,27-05-2025,Credit Card,Delivered
+O0318,C010,E015,11-03-2025,Credit Card,Cancelled
+O0319,C012,E011,16-08-2025,Debit Card,Cancelled
+O0320,C071,E018,03-02-2025,Debit Card,Delivered
+O0321,C092,E006,22-03-2025,Debit Card,Shipped
+O0322,C016,E007,25-04-2025,Credit Card,Delivered
+O0323,C004,E012,10-09-2025,Cash on Delivery,Shipped
+O0324,C060,E018,08-07-2025,Credit Card,Shipped
+O0325,C009,E010,14-02-2025,Net Banking,Cancelled
+O0326,C068,E014,03-09-2025,Net Banking,Returned
+O0327,C010,E005,22-10-2025,Debit Card,Cancelled
+O0328,C058,E015,07-02-2025,Cash on Delivery,Delivered
+O0329,C100,E018,07-03-2025,Cash on Delivery,Delivered
+O0330,C056,E017,08-03-2025,UPI,Returned
+O0331,C067,E005,05-03-2025,Debit Card,Delivered
+O0332,C042,E008,24-03-2025,Debit Card,Shipped
+O0333,C011,E009,26-05-2025,Credit Card,Cancelled
+O0334,C036,E005,10-10-2025,Debit Card,Shipped
+O0335,C012,E017,01-10-2025,Credit Card,Shipped
+O0336,C020,E006,25-10-2025,Cash on Delivery,Cancelled
+O0337,C044,E019,06-11-2025,UPI,Returned
+O0338,C011,E002,15-01-2025,Cash on Delivery,Delivered
+O0339,C027,E019,30-11-2025,Net Banking,Shipped
+O0340,C004,E016,24-11-2025,Cash on Delivery,Delivered
+O0341,C039,E016,25-11-2025,Credit Card,Returned
+O0342,C052,E010,17-12-2025,Net Banking,Delivered
+O0343,C008,E006,19-12-2025,Net Banking,Delivered
+O0344,C060,E007,05-09-2025,Debit Card,Shipped
+O0345,C041,E011,15-03-2025,Debit Card,Delivered
+O0346,C098,E012,08-03-2025,Cash on Delivery,Shipped
+O0347,C041,E008,24-02-2025,Net Banking,Delivered
+O0348,C058,E008,17-05-2025,Credit Card,Delivered
+O0349,C038,E013,26-01-2025,Cash on Delivery,Delivered
+O0350,C021,E011,08-05-2025,Cash on Delivery,Cancelled
+O0351,C025,E006,10-06-2025,Net Banking,Shipped
+O0352,C064,E010,28-08-2025,Net Banking,Delivered
+O0353,C051,E017,16-02-2025,Net Banking,Delivered
+O0354,C075,E012,21-04-2025,UPI,Delivered
+O0355,C064,E020,25-05-2025,Net Banking,Delivered
+O0356,C002,E004,02-10-2025,Net Banking,Delivered
+O0357,C094,E012,16-05-2025,Net Banking,Delivered
+O0358,C052,E002,24-01-2025,Cash on Delivery,Shipped
+O0359,C047,E018,10-04-2025,Debit Card,Delivered
+O0360,C065,E015,17-07-2025,Cash on Delivery,Delivered
+O0361,C088,E020,16-11-2025,UPI,Delivered
+O0362,C051,E012,19-02-2025,Debit Card,Shipped
+O0363,C097,E005,07-07-2025,Credit Card,Shipped
+O0364,C052,E017,18-09-2025,UPI,Delivered
+O0365,C018,E011,20-01-2025,Net Banking,Shipped
+O0366,C020,E020,22-08-2025,Cash on Delivery,Delivered
+O0367,C079,E011,17-06-2025,Credit Card,Delivered
+O0368,C095,E010,12-11-2025,Cash on Delivery,Delivered
+O0369,C066,E018,17-09-2025,Net Banking,Cancelled
+O0370,C039,E016,16-10-2025,UPI,Delivered
+O0371,C087,E004,19-06-2025,Net Banking,Shipped
+O0372,C093,E001,07-06-2025,Cash on Delivery,Delivered
+O0373,C084,E019,16-05-2025,Cash on Delivery,Delivered
+O0374,C075,E016,27-01-2025,Credit Card,Shipped
+O0375,C093,E020,19-11-2025,Net Banking,Delivered
+O0376,C032,E002,15-12-2025,Cash on Delivery,Cancelled
+O0377,C025,E001,26-02-2025,Net Banking,Delivered
+O0378,C020,E014,03-08-2025,Credit Card,Delivered
+O0379,C100,E020,14-09-2025,Net Banking,Returned
+O0380,C091,E005,01-02-2025,Cash on Delivery,Delivered
+O0381,C042,E016,15-10-2025,Cash on Delivery,Delivered
+O0382,C023,E015,10-06-2025,Cash on Delivery,Delivered
+O0383,C046,E009,07-10-2025,Cash on Delivery,Delivered
+O0384,C032,E009,09-04-2025,Cash on Delivery,Delivered
+O0385,C039,E010,26-04-2025,Credit Card,Cancelled
+O0386,C063,E011,27-12-2025,Net Banking,Delivered
+O0387,C093,E009,14-10-2025,Debit Card,Delivered
+O0388,C087,E018,21-10-2025,Net Banking,Delivered
+O0389,C099,E005,26-06-2025,Debit Card,Delivered
+O0390,C092,E003,28-05-2025,Debit Card,Delivered
+O0391,C033,E016,02-12-2025,Credit Card,Delivered
+O0392,C035,E018,03-10-2025,Debit Card,Delivered
+O0393,C079,E019,25-02-2025,Credit Card,Delivered
+O0394,C086,E017,26-01-2025,Credit Card,Cancelled
+O0395,C007,E004,30-04-2025,Net Banking,Delivered
+O0396,C013,E005,30-08-2025,UPI,Shipped
+O0397,C053,E016,22-03-2025,Net Banking,Cancelled
+O0398,C097,E010,13-04-2025,Debit Card,Delivered
+O0399,C008,E003,27-11-2025,Cash on Delivery,Delivered
+O0400,C095,E002,01-10-2025,Credit Card,Delivered
+O0401,C005,E013,01-04-2025,Net Banking,Delivered
+O0402,C005,E001,29-05-2025,Debit Card,Shipped
+O0403,C014,E011,05-11-2025,Debit Card,Delivered
+O0404,C070,E017,25-11-2025,Net Banking,Delivered
+O0405,C060,E009,16-09-2025,Credit Card,Returned
+O0406,C043,E006,27-02-2025,Net Banking,Cancelled
+O0407,C092,E006,12-05-2025,UPI,Cancelled
+O0408,C038,E019,22-06-2025,Credit Card,Delivered
+O0409,C082,E013,09-11-2025,Net Banking,Shipped
+O0410,C012,E013,17-06-2025,UPI,Delivered
+O0411,C062,E011,13-03-2025,Credit Card,Delivered
+O0412,C050,E008,14-05-2025,Net Banking,Returned
+O0413,C043,E010,17-05-2025,Cash on Delivery,Cancelled
+O0414,C002,E009,21-10-2025,Debit Card,Cancelled
+O0415,C008,E004,01-05-2025,Net Banking,Delivered
+O0416,C052,E017,23-03-2025,Debit Card,Cancelled
+O0417,C082,E010,02-03-2025,Debit Card,Shipped
+O0418,C029,E005,24-04-2025,Net Banking,Delivered
+O0419,C096,E020,21-08-2025,Debit Card,Delivered
+O0420,C071,E016,26-12-2025,Cash on Delivery,Returned
+O0421,C028,E008,07-12-2025,Cash on Delivery,Returned
+O0422,C068,E015,11-02-2025,Cash on Delivery,Cancelled
+O0423,C010,E019,05-07-2025,UPI,Delivered
+O0424,C065,E007,08-10-2025,Cash on Delivery,Shipped
+O0425,C022,E011,18-03-2025,Cash on Delivery,Delivered
+O0426,C088,E007,01-03-2025,Cash on Delivery,Delivered
+O0427,C066,E015,16-02-2025,UPI,Delivered
+O0428,C066,E014,09-03-2025,Net Banking,Shipped
+O0429,C072,E015,30-01-2025,Debit Card,Cancelled
+O0430,C051,E009,12-01-2025,UPI,Cancelled
+O0431,C075,E003,22-04-2025,UPI,Delivered
+O0432,C090,E003,26-06-2025,Cash on Delivery,Delivered
+O0433,C061,E002,05-02-2025,Debit Card,Delivered
+O0434,C099,E005,03-04-2025,Net Banking,Delivered
+O0435,C058,E013,15-07-2025,Net Banking,Delivered
+O0436,C085,E018,16-12-2025,Credit Card,Cancelled
+O0437,C016,E006,28-06-2025,Cash on Delivery,Delivered
+O0438,C017,E008,28-09-2025,UPI,Returned
+O0439,C039,E015,12-01-2025,Cash on Delivery,Delivered
+O0440,C049,E008,30-09-2025,Credit Card,Delivered
+O0441,C020,E009,27-06-2025,Credit Card,Cancelled
+O0442,C005,E014,27-02-2025,Cash on Delivery,Returned
+O0443,C031,E007,09-01-2025,UPI,Delivered
+O0444,C005,E015,01-11-2025,Cash on Delivery,Cancelled
+O0445,C007,E008,27-12-2025,UPI,Delivered
+O0446,C030,E018,13-08-2025,Credit Card,Returned
+O0447,C018,E017,29-01-2025,Debit Card,Delivered
+O0448,C041,E019,22-10-2025,Cash on Delivery,Returned
+O0449,C042,E008,11-12-2025,Debit Card,Delivered
+O0450,C067,E008,05-12-2025,Net Banking,Delivered
+O0451,C008,E018,21-05-2025,Cash on Delivery,Cancelled
+O0452,C081,E014,31-03-2025,Cash on Delivery,Delivered
+O0453,C045,E013,25-01-2025,Cash on Delivery,Delivered
+O0454,C054,E014,23-12-2025,Credit Card,Delivered
+O0455,C024,E018,12-07-2025,Net Banking,Delivered
+O0456,C039,E005,26-04-2025,Net Banking,Delivered
+O0457,C053,E014,15-10-2025,Cash on Delivery,Shipped
+O0458,C050,E008,10-03-2025,Debit Card,Delivered
+O0459,C083,E003,19-06-2025,Net Banking,Returned
+O0460,C012,E018,09-07-2025,Credit Card,Delivered
+O0461,C049,E020,18-05-2025,Cash on Delivery,Delivered
+O0462,C025,E019,07-02-2025,Cash on Delivery,Delivered
+O0463,C027,E011,03-09-2025,Debit Card,Delivered
+O0464,C025,E004,19-04-2025,Net Banking,Delivered
+O0465,C078,E007,23-12-2025,Net Banking,Delivered
+O0466,C042,E010,10-10-2025,Net Banking,Delivered
+O0467,C084,E012,01-10-2025,Debit Card,Delivered
+O0468,C066,E016,04-07-2025,Net Banking,Delivered
+O0469,C098,E011,29-08-2025,Credit Card,Delivered
+O0470,C053,E002,10-06-2025,Cash on Delivery,Returned
+O0471,C095,E005,24-04-2025,UPI,Delivered
+O0472,C075,E019,11-10-2025,Net Banking,Delivered
+O0473,C026,E011,20-03-2025,Credit Card,Delivered
+O0474,C032,E016,19-10-2025,Cash on Delivery,Cancelled
+O0475,C044,E009,17-12-2025,Net Banking,Cancelled
+O0476,C095,E016,25-11-2025,Net Banking,Delivered
+O0477,C022,E005,30-06-2025,Cash on Delivery,Delivered
+O0478,C070,E002,05-04-2025,Cash on Delivery,Delivered
+O0479,C086,E002,08-02-2025,UPI,Delivered
+O0480,C081,E008,12-03-2025,UPI,Cancelled
+O0481,C002,E007,19-03-2025,Cash on Delivery,Delivered
+O0482,C008,E020,11-07-2025,Cash on Delivery,Delivered
+O0483,C063,E001,04-12-2025,UPI,Shipped
+O0484,C053,E001,10-10-2025,UPI,Shipped
+O0485,C069,E010,21-05-2025,UPI,Shipped
+O0486,C087,E014,24-12-2025,Credit Card,Delivered
+O0487,C068,E005,19-02-2025,Credit Card,Delivered
+O0488,C068,E009,14-11-2025,Debit Card,Delivered
+O0489,C011,E012,23-07-2025,Net Banking,Delivered
+O0490,C032,E008,17-10-2025,Debit Card,Cancelled
+O0491,C084,E002,11-02-2025,UPI,Delivered
+O0492,C049,E018,14-07-2025,Net Banking,Delivered
+O0493,C002,E006,23-11-2025,UPI,Delivered
+O0494,C083,E011,11-08-2025,Cash on Delivery,Returned
+O0495,C068,E002,18-02-2025,Credit Card,Delivered
+O0496,C073,E016,21-12-2025,Debit Card,Delivered
+O0497,C088,E009,08-02-2025,Cash on Delivery,Shipped
+O0498,C005,E006,03-12-2025,Debit Card,Delivered
+O0499,C076,E005,17-04-2025,Net Banking,Delivered
+O0500,C021,E019,03-06-2025,Credit Card,Shipped

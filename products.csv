@@ -1,0 +1,41 @@
+PRODUCT ID,PRODUCT NAME,CATEGORY,UNIT PRICE,UNIT COST
+P001,Wireless Mouse,Electronics,6957,5655.6
+P002,Keyboard,Electronics,2831,2264.68
+P003,Bluetooth Speaker,Electronics,4177,3272.44
+P004,Headphones,Electronics,3199,2520.76
+P005,Power Bank,Electronics,705,421.89
+P006,Smart Watch,Electronics,5741,4370.3
+P007,USB Hub,Electronics,7044,5399.95
+P008,Webcam,Electronics,4364,2714.57
+P009,Mixer Grinder,Home & Kitchen,2070,1352.3
+P010,Electric Kettle,Home & Kitchen,933,729.44
+P011,Coffee Maker,Home & Kitchen,3943,2381.12
+P012,Cookware Set,Home & Kitchen,7840,5052.16
+P013,Air Fryer,Home & Kitchen,4027,2457.23
+P014,Water Bottle,Home & Kitchen,3463,2277.22
+P015,Storage Box,Home & Kitchen,4863,3809.55
+P016,T-Shirt,Clothing,4872,3141.51
+P017,Jeans,Clothing,8645,5687.66
+P018,Hoodie,Clothing,5724,4599.77
+P019,Formal Shirt,Clothing,2188,1721.52
+P020,Sneakers,Clothing,4578,2738.62
+P021,Jacket,Clothing,4648,2604.41
+P022,Kurta,Clothing,7418,4772.26
+P023,Python Programming,Books,5438,3631.64
+P024,Data Analytics,Books,8678,5043.87
+P025,SQL Guide,Books,3413,2111.88
+P026,Machine Learning,Books,7443,4097.05
+P027,Business Analytics,Books,3527,2286.69
+P028,Web Development,Books,1445,1164.95
+P029,Face Wash,Beauty,5708,4099.78
+P030,Shampoo,Beauty,2340,1741.74
+P031,Moisturizer,Beauty,5219,3585.05
+P032,Perfume,Beauty,6990,4460.1
+P033,Sunscreen,Beauty,5143,3598.51
+P034,Hair Serum,Beauty,3442,2283.84
+P035,Cricket Bat,Sports,6510,4771.02
+P036,Football,Sports,3150,2256
+P037,Badminton Racket,Sports,5229,3449.26
+P038,Yoga Mat,Sports,305,192.77
+P039,Cricket Gloves,Sports,3742,2492.43
+P040,Sports Shoes,Sports,5578,3768.2

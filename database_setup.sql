@@ -1,0 +1,58 @@
+-- E-Commerce Sales & Business Analytics
+-- MySQL Database Setup
+-- NOTE: This setup uses the core columns used by the Power BI project.
+
+CREATE DATABASE IF NOT EXISTS ecommerce_analysis;
+USE ecommerce_analysis;
+
+CREATE TABLE IF NOT EXISTS customers (
+    `CUSTOMER ID` INT PRIMARY KEY,
+    `CUSTOMER NAME` VARCHAR(150),
+    `STATE` VARCHAR(100)
+);
+
+CREATE TABLE IF NOT EXISTS employees (
+    `EMPLOYEE ID` INT PRIMARY KEY,
+    `EMPLOYEE NAME` VARCHAR(150)
+);
+
+CREATE TABLE IF NOT EXISTS products (
+    `PRODUCT ID` INT PRIMARY KEY,
+    `PRODUCT NAME` VARCHAR(200),
+    `CATEGORY` VARCHAR(100),
+    `UNIT COST` DECIMAL(12,2)
+);
+
+CREATE TABLE IF NOT EXISTS orders (
+    `ORDER ID` INT PRIMARY KEY,
+    `CUSTOMER ID` INT,
+    `EMPLOYEE ID` INT,
+    `ORDER DATE` DATE,
+    `ORDER STATUS` VARCHAR(50),
+    FOREIGN KEY (`CUSTOMER ID`) REFERENCES customers(`CUSTOMER ID`),
+    FOREIGN KEY (`EMPLOYEE ID`) REFERENCES employees(`EMPLOYEE ID`)
+);
+
+CREATE TABLE IF NOT EXISTS orderitems (
+    `ORDER ID` INT,
+    `PRODUCT ID` INT,
+    `quantity` INT,
+    `SALES AMOUNT` DECIMAL(12,2),
+    PRIMARY KEY (`ORDER ID`, `PRODUCT ID`),
+    FOREIGN KEY (`ORDER ID`) REFERENCES orders(`ORDER ID`),
+    FOREIGN KEY (`PRODUCT ID`) REFERENCES products(`PRODUCT ID`)
+);
+
+CREATE TABLE IF NOT EXISTS payments (
+    `ORDER ID` INT PRIMARY KEY,
+    `PAYMENT METHOD` VARCHAR(50),
+    FOREIGN KEY (`ORDER ID`) REFERENCES orders(`ORDER ID`)
+);
+
+CREATE INDEX idx_orders_customer ON orders(`CUSTOMER ID`);
+CREATE INDEX idx_orders_date ON orders(`ORDER DATE`);
+CREATE INDEX idx_orders_status ON orders(`ORDER STATUS`);
+CREATE INDEX idx_orderitems_product ON orderitems(`PRODUCT ID`);
+CREATE INDEX idx_customers_state ON customers(`STATE`);
+
+SHOW TABLES;

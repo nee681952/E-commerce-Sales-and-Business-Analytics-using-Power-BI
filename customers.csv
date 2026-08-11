@@ -1,0 +1,101 @@
+ CUSTOMER ID ,CUSTOMER NAME,GENDER,CITY,STATE,SIGNUP DATE
+C001,Ananya Sharma,Female,Kochi,Kerala,07-09-2024
+C002,Arjun Joshi,Male,Mangaluru,Karnataka,23-11-2025
+C003,Vijay Nair,Male,Ahmedabad,Gujarat,27-08-2025
+C004,Aditya Sharma,Male,Pune,Maharashtra,11-08-2024
+C005,Nikhil Rao,Male,Mangaluru,Karnataka,28-07-2025
+C006,Rohan Iyer,Female,Mangaluru,Karnataka,13-08-2024
+C007,Pooja Singh,Male,Mumbai,Maharashtra,16-02-2026
+C008,Asha Joshi,Female,Jaipur,Rajasthan,14-12-2024
+C009,Arjun Kumar,Female,Hyderabad,Telangana,14-04-2024
+C010,Karan Patel,Female,Mysuru,Karnataka,18-12-2024
+C011,Deepak Mehta,Male,Kolkata,West Bengal,17-01-2026
+C012,Neha Patel,Female,Mumbai,Maharashtra,21-03-2024
+C013,Diya Shetty,Female,Delhi,Delhi,14-08-2025
+C014,Rohan Patel,Male,Mangaluru,Karnataka,08-11-2025
+C015,Sneha Singh,Male,Mangaluru,Karnataka,26-08-2024
+C016,Ananya Jain,Female,Lucknow,Uttar Pradesh,09-04-2025
+C017,Tanvi Das,Male,Kochi,Kerala,14-01-2025
+C018,Bhavya Iyer,Female,Chennai,Tamil Nadu,19-12-2025
+C019,Riya Iyer,Male,Bhubaneswar,Odisha,15-09-2025
+C020,Asha Nair,Male,Kochi,Kerala,16-06-2024
+C021,Karan Singh,Male,Mumbai,Maharashtra,02-12-2025
+C022,Tanvi Mehta,Male,Chennai,Tamil Nadu,22-08-2024
+C023,Aditya Mehta,Female,Lucknow,Uttar Pradesh,14-02-2025
+C024,Akash Kumar,Female,Hyderabad,Telangana,05-08-2024
+C025,Meera Jain,Female,Kochi,Kerala,26-05-2024
+C026,Arjun Kumar,Female,Hyderabad,Telangana,03-02-2026
+C027,Kavya Verma,Female,Kolkata,West Bengal,05-01-2025
+C028,Arjun Nair,Female,Mangaluru,Karnataka,03-04-2024
+C029,Aditya Shetty,Male,Jaipur,Rajasthan,05-06-2024
+C030,Asha Mehta,Female,Kochi,Kerala,02-09-2025
+C031,Karan Jain,Female,Mysuru,Karnataka,25-06-2025
+C032,Neha Shetty,Male,Hyderabad,Telangana,27-11-2025
+C033,Ananya Iyer,Female,Ahmedabad,Gujarat,26-02-2026
+C034,Gaurav Patel,Female,Kochi,Kerala,21-03-2025
+C035,Manish Sharma,Female,Ballari,Karnataka,27-05-2025
+C036,Asha Nair,Male,Jaipur,Rajasthan,02-10-2025
+C037,Tanvi Iyer,Male,Hyderabad,Telangana,05-06-2024
+C038,Sneha Reddy,Male,Chennai,Tamil Nadu,05-09-2025
+C039,Meera Sharma,Male,Chennai,Tamil Nadu,06-01-2025
+C040,Tanvi Mehta,Female,Bhubaneswar,Odisha,02-09-2024
+C041,Charan Verma,Male,Bengaluru,Karnataka,28-03-2024
+C042,Meera Shetty,Male,Ahmedabad,Gujarat,17-02-2026
+C043,Sneha Reddy,Male,Delhi,Delhi,06-11-2025
+C044,Neha Reddy,Female,Mumbai,Maharashtra,24-06-2025
+C045,Rahul Jain,Male,Lucknow,Uttar Pradesh,06-07-2025
+C046,Sanjay Joshi,Male,Jaipur,Rajasthan,31-12-2025
+C047,Karan Iyer,Female,Hyderabad,Telangana,24-03-2025
+C048,Nikhil Gupta,Male,Bhubaneswar,Odisha,10-09-2024
+C049,Akash Das,Male,Mangaluru,Karnataka,25-08-2025
+C050,Charan Rao,Male,Delhi,Delhi,08-01-2024
+C051,Rohan Iyer,Male,Mysuru,Karnataka,22-08-2024
+C052,Vijay Sharma,Female,Mysuru,Karnataka,13-03-2024
+C053,Charan Singh,Female,Delhi,Delhi,07-08-2024
+C054,Arjun Joshi,Female,Delhi,Delhi,05-09-2024
+C055,Meera Mehta,Female,Jaipur,Rajasthan,13-07-2024
+C056,Ananya Iyer,Female,Mysuru,Karnataka,28-12-2024
+C057,Kavya Gupta,Male,Pune,Maharashtra,20-11-2025
+C058,Ravi Patel,Male,Kochi,Kerala,16-02-2025
+C059,Gaurav Mehta,Male,Ahmedabad,Gujarat,11-09-2024
+C060,Bhavya Nair,Female,Mangaluru,Karnataka,23-05-2024
+C061,Asha Singh,Female,Pune,Maharashtra,12-09-2024
+C062,Yash Patel,Female,Lucknow,Uttar Pradesh,07-04-2026
+C063,Varun Nair,Male,Lucknow,Uttar Pradesh,21-02-2024
+C064,Neha Shetty,Male,Kochi,Kerala,05-04-2024
+C065,Sneha Shetty,Male,Bhubaneswar,Odisha,19-06-2024
+C066,Meera Gupta,Male,Pune,Maharashtra,14-02-2025
+C067,Aditya Reddy,Female,Bhubaneswar,Odisha,03-01-2024
+C068,Deepak Verma,Female,Pune,Maharashtra,19-10-2024
+C069,Rohan Joshi,Female,Pune,Maharashtra,07-06-2024
+C070,Diya Kumar,Male,Mangaluru,Karnataka,16-08-2025
+C071,Neha Sharma,Female,Ahmedabad,Gujarat,28-02-2024
+C072,Pooja Gupta,Male,Bengaluru,Karnataka,28-02-2024
+C073,Akash Shetty,Male,Delhi,Delhi,11-03-2024
+C074,Akash Iyer,Male,Kolkata,West Bengal,17-02-2025
+C075,Vijay Rao,Male,Mysuru,Karnataka,15-08-2025
+C076,Aditya Rao,Male,Kolkata,West Bengal,05-03-2025
+C077,Pooja Rao,Female,Kochi,Kerala,24-09-2024
+C078,Riya Joshi,Female,Mangaluru,Karnataka,01-09-2024
+C079,Karan Reddy,Female,Hyderabad,Telangana,13-04-2025
+C080,Yash Mehta,Male,Chennai,Tamil Nadu,10-01-2024
+C081,Rahul Rao,Male,Mumbai,Maharashtra,16-03-2024
+C082,Bhavya Nair,Female,Delhi,Delhi,15-05-2024
+C083,Isha Verma,Male,Bhubaneswar,Odisha,07-09-2024
+C084,Diya Reddy,Female,Chennai,Tamil Nadu,10-07-2025
+C085,Diya Rao,Male,Ahmedabad,Gujarat,14-11-2025
+C086,Neha Singh,Male,Lucknow,Uttar Pradesh,17-05-2024
+C087,Ananya Verma,Male,Hyderabad,Telangana,30-01-2026
+C088,Arjun Singh,Female,Delhi,Delhi,11-09-2025
+C089,Rohan Das,Male,Mangaluru,Karnataka,04-12-2025
+C090,Varun Singh,Female,Kochi,Kerala,14-09-2024
+C091,Yash Shetty,Male,Bhubaneswar,Odisha,04-04-2024
+C092,Kavya Shetty,Female,Kochi,Kerala,15-02-2024
+C093,Gaurav Mehta,Male,Bengaluru,Karnataka,14-10-2025
+C094,Asha Joshi,Female,Hyderabad,Telangana,18-07-2025
+C095,Kavya Nair,Male,Ahmedabad,Gujarat,24-04-2024
+C096,Vijay Joshi,Male,Mysuru,Karnataka,12-07-2025
+C097,Tanvi Das,Male,Bengaluru,Karnataka,16-03-2025
+C098,Aditya Singh,Female,Ballari,Karnataka,26-03-2026
+C099,Aditya Verma,Female,Lucknow,Uttar Pradesh,03-08-2024
+C100,Charan Iyer,Male,Kochi,Kerala,28-12-2024
